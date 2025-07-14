@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 About Me :<br>🔭 I’m currently working on improving my development skills through academic and personal projects.<br>👯 I’m looking to collaborate on web development, AI/ML, or open-source projects.<br>🤝 I’m looking for help with mastering backend technologies and deployment strategies.<br>🌱 I’m currently learning full-stack development, data structures & algorithms, and AI fundamentals.<br>⚡ Fun fact: I can spend hours debugging without losing my patience — it's oddly satisfying!🚀 Always curious, Always coding
+🌟 About Me :<br>🔭 I’m currently working on improving my development skills through academic and personal projects.<br>👯 I’m looking to collaborate on web development, AI/ML, or open-source projects.<br>🤝 I’m looking for help with mastering backend technologies and deployment strategies.<br>🌱 I’m currently learning full-stack development, data structures & algorithms, and AI fundamentals.<br>⚡ Fun fact: I can spend hours debugging without losing my patience — it's oddly satisfying!<br>🚀 Always curious, Always coding
 
 
 ## 🌐 Socials:
